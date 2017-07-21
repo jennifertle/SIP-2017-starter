@@ -1,4 +1,5 @@
 import random
+
 print ("How many numbers should the program go up to?")
 user_input=input()
 x=int(user_input)
